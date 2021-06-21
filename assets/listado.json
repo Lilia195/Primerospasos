@@ -1,0 +1,17 @@
+[
+    {
+    "id": 1,
+    "titulo": "Rebelión en la Granja",
+    "autor": "George Orwell"
+ },
+ {
+    "id": 2,
+    "titulo": "Nosotros",
+    "autor": "Evgeniy Zamiatin"
+ },
+ {
+    "id": 3,
+    "titulo": "Adiós a las armas",
+    "autor": "Ernest Hemingway"
+ }
+ ]
